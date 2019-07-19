@@ -1,0 +1,2 @@
+C:\Users\langek4\source\repos\AntiAcronyms\AntiAcronyms\obj\Debug\AntiAcronyms.csprojAssemblyReference.cache
+C:\Users\langek4\source\repos\AntiAcronyms\AntiAcronyms\obj\Debug\AntiAcronyms.csproj.CoreCompileInputs.cache
